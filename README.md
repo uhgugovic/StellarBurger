@@ -4,13 +4,9 @@
 
 ![image](https://github.com/intredd/stellar-burger/assets/119800161/143d9c70-d6bc-4d31-bb94-0171041ccf90)
 
-## Ссылка на проект
-
-- [Ссылка на макет в Figma](https://www.figma.com/design/vIywAvqfkOIRWGOkfOnReY/React-Fullstack_-Проектные-задачи-(3-месяца)_external_link?node-id=108717-4270&t=ISgGgsrRuWRbrtkg-0)
-
 ## Структура проекта
 
-- frontend - этот репозиторий ❤️
+- frontend - этот репозиторий
 
 ## Что сделано
 
